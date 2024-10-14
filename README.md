@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/f1-race-winner-prediction.git
+https://github.com/jheeellllll/F1-winner-Prediction.git
 cd f1-race-winner-prediction
 Install dependencies: It's recommended to use a virtual environment:
 
